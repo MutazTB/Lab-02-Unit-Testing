@@ -1,0 +1,16 @@
+C:\Users\Mutaz\lab2-ATM\Lab-02-Unit-Testing\UnitTestATm\ATMGame\bin\Debug\net5.0\ATMGame.exe
+C:\Users\Mutaz\lab2-ATM\Lab-02-Unit-Testing\UnitTestATm\ATMGame\bin\Debug\net5.0\ATMGame.deps.json
+C:\Users\Mutaz\lab2-ATM\Lab-02-Unit-Testing\UnitTestATm\ATMGame\bin\Debug\net5.0\ATMGame.runtimeconfig.json
+C:\Users\Mutaz\lab2-ATM\Lab-02-Unit-Testing\UnitTestATm\ATMGame\bin\Debug\net5.0\ATMGame.runtimeconfig.dev.json
+C:\Users\Mutaz\lab2-ATM\Lab-02-Unit-Testing\UnitTestATm\ATMGame\bin\Debug\net5.0\ATMGame.dll
+C:\Users\Mutaz\lab2-ATM\Lab-02-Unit-Testing\UnitTestATm\ATMGame\bin\Debug\net5.0\ref\ATMGame.dll
+C:\Users\Mutaz\lab2-ATM\Lab-02-Unit-Testing\UnitTestATm\ATMGame\bin\Debug\net5.0\ATMGame.pdb
+C:\Users\Mutaz\lab2-ATM\Lab-02-Unit-Testing\UnitTestATm\ATMGame\obj\Debug\net5.0\ATMGame.csproj.AssemblyReference.cache
+C:\Users\Mutaz\lab2-ATM\Lab-02-Unit-Testing\UnitTestATm\ATMGame\obj\Debug\net5.0\ATMGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mutaz\lab2-ATM\Lab-02-Unit-Testing\UnitTestATm\ATMGame\obj\Debug\net5.0\ATMGame.AssemblyInfoInputs.cache
+C:\Users\Mutaz\lab2-ATM\Lab-02-Unit-Testing\UnitTestATm\ATMGame\obj\Debug\net5.0\ATMGame.AssemblyInfo.cs
+C:\Users\Mutaz\lab2-ATM\Lab-02-Unit-Testing\UnitTestATm\ATMGame\obj\Debug\net5.0\ATMGame.csproj.CoreCompileInputs.cache
+C:\Users\Mutaz\lab2-ATM\Lab-02-Unit-Testing\UnitTestATm\ATMGame\obj\Debug\net5.0\ATMGame.dll
+C:\Users\Mutaz\lab2-ATM\Lab-02-Unit-Testing\UnitTestATm\ATMGame\obj\Debug\net5.0\ref\ATMGame.dll
+C:\Users\Mutaz\lab2-ATM\Lab-02-Unit-Testing\UnitTestATm\ATMGame\obj\Debug\net5.0\ATMGame.pdb
+C:\Users\Mutaz\lab2-ATM\Lab-02-Unit-Testing\UnitTestATm\ATMGame\obj\Debug\net5.0\ATMGame.genruntimeconfig.cache
